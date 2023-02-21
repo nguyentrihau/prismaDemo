@@ -1,0 +1,16 @@
+{
+  "name": "btbuoi7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.10.1",
+    "dotenv": "^16.0.3",
+    "fastify": "^4.13.0",
+    "nodemon": "^2.0.20",
+    "prisma": "^4.10.1"
+  }
+}
